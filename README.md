@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @onedaythree
-- 👀 I’m interested in learning abouot cell phone programming, right now ios
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning about cyber security
+- 🌱 I’m currently learning how to be sober
+- 💞️ I’m looking to collaborate on what ever you feel like teaching me
+- 📫 How to reach me lakeduane22@gmail.com
 
 <!---
 onedaythree/onedaythree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
